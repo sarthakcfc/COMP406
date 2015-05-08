@@ -39,6 +39,14 @@ git commit -m "Finished prequiz"
 git push -u --all origin
 ----
 
+IMPORTANT: As a professor, I tailor open source software for education;
+consider an open source project to improve in this class, and your circumstances.
+Think: "I need open source project X to do Y so that I can Z."
+For example, you may find an open source project difficult to use in some way.
+Identify the issues in the issue tracker,
+advocate for fixing them with upstream (e.g., on IRC),
+submit changes, and send a merge (pull) request.
+
 === May 6. Git and hosting setup
 
 Step 1. Install Git and frontends
