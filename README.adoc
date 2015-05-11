@@ -2,6 +2,18 @@
 
 == Agenda
 
+=== May 11. VMs and Definitions
+
+NOTE: Watch https://www.youtube.com/watch?v=1ffBJ4sVUb4[Git for ages 4 and up]
+and read http://producingoss.com/en/index.html[Producing Open Source Software] by next class.
+
+Install these:
+
+* https://www.virtualbox.org/wiki/Downloads[Virtual Box]
+* https://www.vagrantup.com/downloads.html[Vagrant]
+
+
+
 === May 8. Lab 1: Prequiz
 
 NOTE: Watch https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS] by next week.
