@@ -18,8 +18,71 @@ Run this to get into a local Linux (Ubuntu) VM:
 vagrant init hashicorp/precise32
 vagrant up
 vagrant ssh
+vagrant halt # Shutdown machine (opposite of up)
+vagrant destroy # Remove VM (opposite of init)
 ----
 
+==== What is free software?
+
+https://gnu.org/philosophy/free-sw.html[Software with the freedom to]:
+
+* run it for any purpose (freedom 0).
+* study how the program works, and change it (freedom 1).
+* redistribute copies (freedom 2).
+* distribute copies of your modified versions (freedom 3).
+
+Misconceptions about free software:
+
+* You can't sell it. (Yes, you can!)
+* Don't need to pay for it. (Sometimes you do)
+
+Free software is NOT necessarily public domain (free of copyrights).
+Most free software is protected under copyright.
+
+==== What is open source software?
+
+A synonym of free? (Pretty much, but not exactly) It is close, though.
+
+http://opensource.org/osd-annotated[The open source definition]
+
+* Free Redistribution
+* Source Code
+* Derived Works
+* Integrity of The Author's Source Code
+* No Discrimination Against Persons or Groups
+* No Discrimination Against Fields of Endeavor
+* Distribution of License
+* License Must Not Be Specific to a Product
+* License Must Not Restrict Other Software
+* License Must Be Technology-Neutral
+
+==== What's the difference?
+
+Free software: respect user freedom;
+Open source: respect developer freedom.
+
+Open source DRM could be a thing, but not free software DRM.
+
+==== What does copyleft mean?
+
+Three categories of intellectual property:
+
+* *Patents* protects inventions.
+* *Trademarks* protects brands.
+* *Copyright* protects other creative works (anything you write)
+
+*Copyleft* flips copyright: you may share as long as you share alike (under the same terms).
+
+==== What does permissive mean?
+
+You can do whatever the f*&@ you want to.
+
+==== What is a license? What's the difference among them?
+
+A *license* restricts what you can do with the copyrighted work,
+the ground rules.
+
+http://www.gnu.org/philosophy/license-list.html[A gigantic list of licenses]
 
 
 === May 8. Lab 1: Prequiz
