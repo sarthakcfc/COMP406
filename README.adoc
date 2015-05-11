@@ -12,6 +12,14 @@ Install these:
 * https://www.virtualbox.org/wiki/Downloads[Virtual Box]
 * https://www.vagrantup.com/downloads.html[Vagrant]
 
+Run this to get into a local Linux (Ubuntu) VM:
+
+----
+vagrant init hashicorp/precise32
+vagrant up
+vagrant ssh
+----
+
 
 
 === May 8. Lab 1: Prequiz
