@@ -2,6 +2,89 @@
 
 == Agenda
 
+=== May 11. VMs and Definitions
+
+NOTE: Watch https://www.youtube.com/watch?v=1ffBJ4sVUb4[Git for ages 4 and up]
+and read http://producingoss.com/en/index.html[Producing Open Source Software] by next class.
+
+Install these:
+
+* https://www.virtualbox.org/wiki/Downloads[Virtual Box]
+* https://www.vagrantup.com/downloads.html[Vagrant]
+
+Run this to get into a local Linux (Ubuntu) VM:
+
+----
+vagrant init hashicorp/precise32
+vagrant up
+vagrant ssh
+vagrant halt # Shutdown machine (opposite of up)
+vagrant destroy # Remove VM (opposite of init)
+----
+
+==== What is free software?
+
+https://gnu.org/philosophy/free-sw.html[Software with the freedom to]:
+
+* run it for any purpose (freedom 0).
+* study how the program works, and change it (freedom 1).
+* redistribute copies (freedom 2).
+* distribute copies of your modified versions (freedom 3).
+
+Misconceptions about free software:
+
+* You can't sell it. (Yes, you can!)
+* Don't need to pay for it. (Sometimes you do)
+
+Free software is NOT necessarily public domain (free of copyrights).
+Most free software is protected under copyright.
+
+==== What is open source software?
+
+A synonym of free? (Pretty much, but not exactly) It is close, though.
+
+http://opensource.org/osd-annotated[The open source definition]
+
+* Free Redistribution
+* Source Code
+* Derived Works
+* Integrity of The Author's Source Code
+* No Discrimination Against Persons or Groups
+* No Discrimination Against Fields of Endeavor
+* Distribution of License
+* License Must Not Be Specific to a Product
+* License Must Not Restrict Other Software
+* License Must Be Technology-Neutral
+
+==== What's the difference?
+
+Free software: respect user freedom;
+Open source: respect developer freedom.
+
+Open source DRM could be a thing, but not free software DRM.
+
+==== What does copyleft mean?
+
+Three categories of intellectual property:
+
+* *Patents* protects inventions.
+* *Trademarks* protects brands.
+* *Copyright* protects other creative works (anything you write)
+
+*Copyleft* flips copyright: you may share as long as you share alike (under the same terms).
+
+==== What does permissive mean?
+
+You can do whatever the f*&@ you want to.
+
+==== What is a license? What's the difference among them?
+
+A *license* restricts what you can do with the copyrighted work,
+the ground rules.
+
+http://www.gnu.org/philosophy/license-list.html[A gigantic list of licenses]
+
+
 === May 8. Lab 1: Prequiz
 
 NOTE: Watch https://www.youtube.com/watch?v=k84FMc1GF8M[Revolution OS] by next week.
@@ -38,6 +121,14 @@ git add .
 git commit -m "Finished prequiz"
 git push -u --all origin
 ----
+
+IMPORTANT: As a professor, I tailor open source software for education;
+consider an open source project to improve in this class, and your circumstances.
+Think: "I need open source project X to do Y so that I can Z."
+For example, you may find an open source project difficult to use in some way.
+Identify the issues in the issue tracker,
+advocate for fixing them with upstream (e.g., on IRC),
+submit changes, and send a merge (pull) request.
 
 === May 6. Git and hosting setup
 
