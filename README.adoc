@@ -67,7 +67,7 @@ but free software DRM is a contradiction.
 
 To summarize (courtesy http://www.advogato.org/faq.html[FSF via Advogato]):
 
-image:http://lawrancej.github.io/COMP603-2015/scribbles/faq-venn.jpg[Needs more JPEG]
+image:http://lawrancej.github.io/COMP406/scribbles/faq-venn.jpg[Needs more JPEG]
 
 ==== What does copyleft mean?
 
