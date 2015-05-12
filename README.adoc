@@ -41,8 +41,6 @@ Most free software is protected under copyright.
 
 ==== What is open source software?
 
-A synonym of free? (Pretty much, but not exactly) It is close, though.
-
 http://opensource.org/osd-annotated[The open source definition]
 
 * Free Redistribution
@@ -58,10 +56,18 @@ http://opensource.org/osd-annotated[The open source definition]
 
 ==== What's the difference?
 
-Free software: respect user freedom;
-Open source: respect developer freedom.
+They're almost the same.
+Free software respects *user's* freedom,
+whereas open source respects *developer's* freedom.
+When users and developers are the same, free and open source mean the same thing.
 
-Open source DRM could be a thing, but not free software DRM.
+To understand the difference,
+open source digital rights management (DRM) could be a thing,
+but free software DRM is a contradiction.
+
+To summarize (courtesy http://www.advogato.org/faq.html[FSF via Advogato]):
+
+image:http://lawrancej.github.io/COMP603-2015/scribbles/faq-venn.jpg[Needs more JPEG]
 
 ==== What does copyleft mean?
 
@@ -79,11 +85,10 @@ You can do whatever the f*&@ you want to.
 
 ==== What is a license? What's the difference among them?
 
-A *license* restricts what you can do with the copyrighted work,
-the ground rules.
+A *license* restricts what you can do with work under copyright,
+it defines the ground rules.
 
 http://www.gnu.org/philosophy/license-list.html[A gigantic list of licenses]
-
 
 === May 8. Lab 1: Prequiz
 
