@@ -2,6 +2,10 @@
 
 == Agenda
 
+=== May 13. Open source slides
+
+http://flosscc.opensource.org/content/spread-the-word[Open source presentation]
+
 === May 11. VMs and Definitions
 
 NOTE: Watch https://www.youtube.com/watch?v=1ffBJ4sVUb4[Git for ages 4 and up]
