@@ -35,9 +35,9 @@ Creating a new feature to enable users to do something new helps users.
 Fixing some annoying problem helps users.
 *Documentation writing*::
 Documenting how to build, use or contribute to the code helps users.
-*Code cleanup*:
+*Code cleanup*::
 Eradicating technical debt helps the developers, even though it may not affect users.
-*Testing*:
+*Testing*::
 Writing a test suite helps the developers.
 
 Consider your motivations.
