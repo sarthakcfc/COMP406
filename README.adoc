@@ -37,6 +37,8 @@ Fixing some annoying problem helps users.
 Documenting how to build, use or contribute to the code helps users.
 *Code cleanup*:
 Eradicating technical debt helps the developers, even though it may not affect users.
+*Testing*:
+Writing a test suite helps the developers.
 
 Consider your motivations.
 
