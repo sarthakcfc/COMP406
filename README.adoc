@@ -47,6 +47,8 @@ Would you do this in your spare time anyway? Great!
 *Resume / portfolio building*::
 Does this contribution advance your career? Great!
 
+Many small isolated commits (that are mergeable) is better than one gigantic commit.
+
 === May 13. Open source slides
 
 http://flosscc.opensource.org/content/spread-the-word[Open source presentation]
