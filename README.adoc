@@ -2,6 +2,14 @@
 
 == Agenda
 
+=== May 18: Try out open source yourself
+
+NOTE: Don't do this in your repo, for the love of `$deity`
+
+1. Go here: https://github.com/lawrancej/illacceptanything[I'll accept anything that's not illegal-ish]
+2. Click the "Fork" button.
+3. Clone your fork.
+
 === May 15. Lab 2. Project selection and contribution
 
 With so many open source projects to choose, selecting one can be daunting.
