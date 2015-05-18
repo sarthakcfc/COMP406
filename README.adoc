@@ -2,9 +2,70 @@
 
 == Agenda
 
+=== May 18: Try out open source yourself
+
+NOTE: Don't do this in your repo, for the love of `$deity`
+
+1. Go here: https://github.com/lawrancej/illacceptanything[I'll accept anything that's not illegal-ish]
+2. Click the "Fork" button.
+3. Clone your fork.
+
+=== May 15. Lab 2. Project selection and contribution
+
+With so many open source projects to choose, selecting one can be daunting.
+
+Choose an open source project with:
+
+*Users*::
+The more users, the better.
+Although contributing to an obscure project may expand the user base,
+contributing to a project that people use is a great feeling.
+*Utility*::
+Does the project serve some user need?
+Games are fine, we need entertainment, but some projects are intended for neither users or developers (i.e., toy code).
+*Familiarity*::
+Can you understand the source code?
+If you don't know the language, pass on the project.
+*Developers*::
+The more developers, the better.
+Most open source projects are the work of one person.
+You'll get more out of this class if you contribute to projects with multiple developers.
+*Activity*::
+Have developer(s) contributed to this project recently?
+Be wary of inactive projects, unless you want to become the maintainer.
+
+Consider the nature of the contribution you make.
+These are excellent contributions:
+
+*New features*::
+Creating a new feature to enable users to do something new helps users.
+*Bug fixing*::
+Fixing some annoying problem helps users.
+*Documentation writing*::
+Documenting how to build, use or contribute to the code helps users.
+*Code cleanup*::
+Eradicating technical debt helps the developers, even though it may not affect users.
+*Testing*::
+Writing a test suite helps the developers.
+
+Consider your motivations.
+
+*Intrinsic interest*::
+Would you do this in your spare time anyway? Great!
+*Resume / portfolio building*::
+Does this contribution advance your career? Great!
+
+Many small isolated commits (that are mergeable) is better than one gigantic commit.
+
 === May 13. Open source slides
 
 http://flosscc.opensource.org/content/spread-the-word[Open source presentation]
+
+Go to your repo (e.g., on Github, Bitbucket, Gitlab).
+
+Create an issue in your repository.
+The issue title should reflect a project you are considering,
+the issue description should explain the contribution you want to make.
 
 === May 11. VMs and Definitions
 
