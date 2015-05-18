@@ -8,7 +8,7 @@ NOTE: Don't do this in your repo, for the love of `$deity`
 
 1. Go here: https://github.com/lawrancej/illacceptanything[I'll accept anything that's not illegal-ish]
 2. Click the "Fork" button.
-3. Clone your fork.
+3. Clone your fork. `git clone URL-GOES-HERE-BUT-DONT-TYPE-LITERALLY`
 
 === May 15. Lab 2. Project selection and contribution
 
