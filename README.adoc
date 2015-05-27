@@ -8,8 +8,13 @@
 cd illacceptanything
 git gui &
 gitk --all &
-----
+git branch
+git checkout -b branch-name-goes-here
+touch a-turd
+git add a-turd
+git commit -m "Added crap."
 
+----
 
 === May 22: Getting it to build
 
