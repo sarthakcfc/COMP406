@@ -13,7 +13,7 @@ git checkout -b branch-name-goes-here
 touch a-turd
 git add a-turd
 git commit -m "Added crap."
-
+git checkout master
 ----
 
 === May 22: Getting it to build
