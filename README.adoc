@@ -2,11 +2,22 @@
 
 == Agenda
 
+=== May 27: Practice Branching
+
+----
+cd illacceptanything
+git gui &
+gitk --all &
+----
+
+
 === May 22: Getting it to build
 
 Have you picked a project yet?
 
 Either way, lets try to get something to build.
+
+http://www.commitlogsfromlastnight.com/[NSFC]
 
 === May 20: Setting up remotes
 
