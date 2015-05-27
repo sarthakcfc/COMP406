@@ -14,6 +14,50 @@ touch a-turd
 git add a-turd
 git commit -m "Added crap."
 git checkout master
+touch another-turd
+git add another-turd
+git commit -m "Another turd"
+git merge pooper-scooper
+
+git checkout -b madmax
+# edit Poem.txt
+git commit -am "did stuff."
+git checkout master
+
+git checkout -b ode-2-whiskey
+# edit Poem.txt
+git commit -am "did stuff."
+git checkout master
+git checkout -b development
+
+git branch
+git branch -D pooper-scooper
+# Let's get a merge conflict
+
+git merge madmax
+git merge ode-2-whiskey
+# Woo hoo! Merge conflict!
+git mergetool
+# Or, do one of these:
+git checkout --ours poem.txt
+git checkout --theirs poem.txt
+
+git commit -am "Fixed merge conflict."
+----
+
+Don't commit stuff with conflict markers!
+Here's what they look like:
+
+----
+<<<<<<< HEAD
+Mad max is the man.
+Mad max roams the countryside.
+Mad max has an ax.
+=======
+The devil wears black.
+And he goes by Jack.
+And he's really good at helping me forget.
+>>>>>>> ode-2-whiskey
 ----
 
 === May 22: Getting it to build
