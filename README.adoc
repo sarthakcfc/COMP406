@@ -2,6 +2,25 @@
 
 == Agenda
 
+=== June 1: Project stuff
+
+==== Your project
+
+1. Pick project, preferably actively developed in a language of your choosing.
+2. Get it to build (if it doesn't, that could be a contribution itself)
+3. Meet upstream developers and their hangouts. Hereafter referred to as *they*.
+4. Look at their issue tracker. Great place to look for ideas.
+5. Figure out what your contribution will be.
+6. Do said thing.
+
+==== This class
+
+I need your help to make it worthwhile.
+
+I could use some rolling topics to discuss in class.
+
+File an issue in this repo (https://github.com/lawrancej/COMP406/issues[Rolling topics])
+
 === May 27: Practice Branching
 
 ----
