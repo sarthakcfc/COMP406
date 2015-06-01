@@ -2,6 +2,113 @@
 
 == Agenda
 
+=== June 1: Project stuff
+
+==== Your project
+
+1. Pick project, preferably actively developed in a language of your choosing.
+2. Get it to build (if it doesn't, that could be a contribution itself)
+3. Meet upstream developers and their hangouts. Hereafter referred to as *they*.
+4. Look at their issue tracker. Great place to look for ideas.
+5. Figure out what your contribution will be.
+6. Do said thing.
+
+==== This class
+
+I need your help to make it worthwhile.
+
+I could use some rolling topics to discuss in class.
+
+File an issue in this repo (https://github.com/lawrancej/COMP406/issues[Rolling topics])
+
+=== May 27: Practice Branching
+
+----
+cd illacceptanything
+git gui &
+gitk --all &
+git branch
+git checkout -b branch-name-goes-here
+touch a-turd
+git add a-turd
+git commit -m "Added crap."
+git checkout master
+touch another-turd
+git add another-turd
+git commit -m "Another turd"
+git merge pooper-scooper
+
+git checkout -b madmax
+# edit Poem.txt
+git commit -am "did stuff."
+git checkout master
+
+git checkout -b ode-2-whiskey
+# edit Poem.txt
+git commit -am "did stuff."
+git checkout master
+git checkout -b development
+
+git branch
+git branch -D pooper-scooper
+# Let's get a merge conflict
+
+git merge madmax
+git merge ode-2-whiskey
+# Woo hoo! Merge conflict!
+git mergetool
+# Or, do one of these:
+git checkout --ours poem.txt
+git checkout --theirs poem.txt
+
+git commit -am "Fixed merge conflict."
+----
+
+Don't commit stuff with conflict markers!
+Here's what they look like:
+
+----
+<<<<<<< HEAD
+Mad max is the man.
+Mad max roams the countryside.
+Mad max has an ax.
+=======
+The devil wears black.
+And he goes by Jack.
+And he's really good at helping me forget.
+>>>>>>> ode-2-whiskey
+----
+
+=== May 22: Getting it to build
+
+Have you picked a project yet?
+
+Either way, lets try to get something to build.
+
+http://www.commitlogsfromlastnight.com/[NSFC]
+
+=== May 20: Setting up remotes
+
+NOTE: Don't do this in your repo, for the love of `$deity`
+
+Do this
+----
+cd illacceptanything
+git remote add upstream https://github.com/lawrancej/illacceptanything.git
+git pull upstream master
+chmod +x remotes.sh
+./remotes.sh    # Setup remotes
+git remote -v   # Should see a long list
+git fetch --all # Fetch from everybody
+gitk --all &    # See history
+----
+
+Merge in the work of whoever is sitting next to you.
+----
+git merge <remote-name>/master
+git push origin
+----
+
 === May 18: Try out open source yourself
 
 NOTE: Don't do this in your repo, for the love of `$deity`
