@@ -2,6 +2,27 @@
 
 == Agenda
 
+=== June 8: Midterm?
+
+IMPORTANT: June 19 midterm?
+
+https://www.youtube.com/watch?v=k2vJNNAQZlg[Toot toot. The fail train has arrived]
+
+Make it open source.
+Manually type out a license.
+Essay? Hell no!
+Take home? Maybe, we'll see.
+How to contribute? Licensing.
+
+
+=== June 3: Rebasing
+
+How to use rebasing to look smarter than you actually are.
+
+----
+git rebase -i <base>
+----
+
 === June 1: Project stuff
 
 ==== Your project
