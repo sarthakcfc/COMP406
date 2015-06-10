@@ -2,9 +2,95 @@
 
 == Agenda
 
-=== June 8: Midterm?
-
 IMPORTANT: June 19 midterm?
+
+=== June 10: Actual plan today
+
+What is free software?
+
+
+
+What is open source software?
+
+
+
+What's the difference?
+
+
+
+What does copyleft mean?
+
+
+
+What does permissive mean?
+
+
+
+What is a license? What's the difference among them?
+
+
+
+When did open source software start?
+
+
+
+What were some major accomplishments in free / open source software?
+
+
+
+Who is Richard Stallman? What did he do?
+
+
+
+Who is Eric Raymond? What did he do?
+
+
+
+Who is Bruce Perens? What did he do?
+
+
+
+How is Michael Tiemann doing? What did he do?
+
+
+
+Who is Linus Torvalds? What did he do, besides Linux?
+
+
+
+What is project hosting? How has that changed?
+
+
+
+Why do folks write open source software?
+
+
+
+Who produces open source software?
+
+
+
+Who pays for it?
+
+
+
+Who profits from it?
+
+
+
+Who is in control of your computer?
+
+
+
+What do we give up when we cede control to others? What do we gain?
+
+
+
+Is it okay for others to decide what you can do with your computer? If so, when?
+
+
+
+=== June 8: Midterm?
 
 https://www.youtube.com/watch?v=k2vJNNAQZlg[Toot toot. The fail train has arrived]
 
@@ -13,7 +99,6 @@ Manually type out a license.
 Essay? Hell no!
 Take home? Maybe, we'll see.
 How to contribute? Licensing.
-
 
 === June 3: Rebasing
 
