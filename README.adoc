@@ -78,39 +78,57 @@ He helped write:
 
 ==== Who is Mark Shuttleworth? What did he do?
 
-
+* Is a billionaire. He ran CA called Thawte (which Verisign bought $$$).
+* He's been to space.
+* Founded Ubuntu and Canonical
 
 ==== What is project hosting? How has that changed?
 
+Github, Sourceforge, Bitbucket, Gitlab, etc.
 
+People used to use Sourceforge. But don't. Seriously.
 
 ==== Why do folks write open source software?
 
-
+* Because you have to (based on need)
+* Because it's there
+* Good way to learn
+* Good way get a job
+* Street cred
+* Etc.
 
 ==== Who produces open source software?
 
-
+* Foundations (Apache, Eclipse, Mozilla, GNU, Software Freedom Conservancy, etc.)
+* Companies
+* Individuals
 
 ==== Who pays for it?
 
-
+* It depends
+* GPL software and proprietary version to pay for it.
+* Donations
+* Sponsorships
+* https://github.com/nasa[Governments]
+* Etc.
 
 ==== Who profits from it?
 
-
+* See Red Hat
 
 ==== Who is in control of your computer?
 
-
+* It should be you, but it isn't because reasons
 
 ==== What do we give up when we cede control to others? What do we gain?
 
-
+* Renting movies?
+* But there's alternatives
 
 ==== Is it okay for others to decide what you can do with your computer? If so, when?
 
-
+* No, because liberty!
+* Yes, because who cares?
 
 === June 8: Midterm?
 
