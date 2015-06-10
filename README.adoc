@@ -32,7 +32,9 @@ What is a license? What's the difference among them?
 
 When did open source software start?
 
-
+Originally, all software was "open source".
+Proprietary software had to be invented.
+The term "open source" as used today came to being in 1998.
 
 What were some major accomplishments in free / open source software?
 
@@ -55,6 +57,10 @@ How is Michael Tiemann doing? What did he do?
 
 
 Who is Linus Torvalds? What did he do, besides Linux?
+
+
+
+Who is Mark Shuttleworth? What did he do?
 
 
 
