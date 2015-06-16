@@ -6,89 +6,129 @@ IMPORTANT: June 19 midterm?
 
 === June 10: Actual plan today
 
-What is free software?
+==== What is free software?
 
 
 
-What is open source software?
+==== What is open source software?
 
 
 
-What's the difference?
+==== What's the difference?
 
 
 
-What does copyleft mean?
+==== What does copyleft mean?
 
 
 
-What does permissive mean?
+==== What does permissive mean?
 
 
 
-What is a license? What's the difference among them?
+==== What is a license? What's the difference among them?
 
 
 
-When did open source software start?
+==== When did open source software start?
+
+Originally, all software was "open source".
+Proprietary software had to be invented.
+The term "open source" as used today came to being in 1998.
+
+==== What were some major accomplishments in free / open source software?
 
 
 
-What were some major accomplishments in free / open source software?
+==== Who is Richard Stallman? What did he do?
 
+He got a $1 million dollar MacArthur Foundation Genius grant.
 
+He helped write:
 
-Who is Richard Stallman? What did he do?
+* GNU General Public License
+* He's got microkernels in his beard. A HURD if you will.
+* Disgusting person.
+* GCC, GDB, emacs
+* Nothing to do with MIT license, Ubuntu or Debian
+* GNU project (and all the ancillary software)
 
+==== Who is Eric Raymond? What did he do?
 
+* He wrote the Cathedral and The Bazaar
+* He is Microsoft's worst nightmare
+* He said to Jim Allchin (who later said: Linux is a cancer), "I am your worst nightmare."
 
-Who is Eric Raymond? What did he do?
+==== Who is Bruce Perens? What did he do?
 
+* He wrote the Debian Free Software Guidelines
+* That in turn, became the Open Source Definition.
 
+==== How is Michael Tiemann doing? What did he do?
 
-Who is Bruce Perens? What did he do?
+He helped write:
 
+* g++
+* He founded Cygnus, which Red Hat acquired, and he became wealthy.
 
+==== Who is Linus Torvalds? What did he do, besides Linux?
 
-How is Michael Tiemann doing? What did he do?
+* git
+* http://subsurface-divelog.org/[Subsurface]
 
+==== Who is Mark Shuttleworth? What did he do?
 
+* Is a billionaire. He ran CA called Thawte (which Verisign bought $$$).
+* He's been to space.
+* Founded Ubuntu and Canonical
 
-Who is Linus Torvalds? What did he do, besides Linux?
+==== What is project hosting? How has that changed?
 
+Github, Sourceforge, Bitbucket, Gitlab, etc.
 
+People used to use Sourceforge. But don't. Seriously.
 
-What is project hosting? How has that changed?
+==== Why do folks write open source software?
 
+* Because you have to (based on need)
+* Because it's there
+* Good way to learn
+* Good way get a job
+* Street cred
+* Etc.
 
+==== Who produces open source software?
 
-Why do folks write open source software?
+* Foundations (Apache, Eclipse, Mozilla, GNU, Software Freedom Conservancy, etc.)
+* Companies
+* Individuals
 
+==== Who pays for it?
 
+* It depends
+* GPL software and proprietary version to pay for it.
+* Donations
+* Sponsorships
+* https://github.com/nasa[Governments]
+* Etc.
 
-Who produces open source software?
+==== Who profits from it?
 
+* See Red Hat
 
+==== Who is in control of your computer?
 
-Who pays for it?
+* It should be you, but it isn't because reasons
 
+==== What do we give up when we cede control to others? What do we gain?
 
+* Renting movies?
+* But there's alternatives
 
-Who profits from it?
+==== Is it okay for others to decide what you can do with your computer? If so, when?
 
-
-
-Who is in control of your computer?
-
-
-
-What do we give up when we cede control to others? What do we gain?
-
-
-
-Is it okay for others to decide what you can do with your computer? If so, when?
-
-
+* No, because liberty!
+* Yes, because who cares?
 
 === June 8: Midterm?
 
